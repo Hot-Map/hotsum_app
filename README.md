@@ -1,16 +1,8 @@
 # hotsum_app
 
-A new Flutter project.
+Our mobile application for the summarization service. 
+It connects to our server hosted in a virtual machine provided by Azure.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Detailed information regarding the applicaiton and implementation details 
+will be provided in the final report.
